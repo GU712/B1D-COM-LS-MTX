@@ -44,20 +44,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-<item>		
-<title>[COLOR black].[/COLOR]</title>		
-<link>ignoreme</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?		
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>		
-<link>ignoreme</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-</item>		
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
