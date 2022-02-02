@@ -71,20 +71,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "F"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[B][COLOR white]Fé Demais não Cheira Bem (1992)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=rP6VDQ2J3QM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4kkuddjhep7gwtdmucokztjixjks6url$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - HD DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27683cc18606a832793557db7609aa3a558af63f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Fe.Demais.Nao%20Cheira%20Bem.1992.HD.DUB.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - DUB - LEGFIX[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sEOMXU84ndcVaUoTQiacVwuctEP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pBHFf9kNRzGUY8G6ZLO2YnwYauz.jpg</fanart>
-<info>Jonas Nightengale é um falso pregador de fé, que usa todos seus truques com a Bíblia na mão de forma a atrair as pessoas para seus cultos. </info>
-<genre>COMÉDIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[B][COLOR white]Fé Demais não Cheira Bem (1992)[/COLOR][/B]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=rP6VDQ2J3QM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem [/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4kkuddjhep7gwtdmucokztjixjks6url$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - HD DUB[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27683cc18606a832793557db7609aa3a558af63f$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/4CMD-FM/LS-Fe.Demais.Nao%20Cheira%20Bem.1992.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fe Demais nao Cheira Bem  - DUB - LEGFIX[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/sEOMXU84ndcVaUoTQiacVwuctEP.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/pBHFf9kNRzGUY8G6ZLO2YnwYauz.jpg</fanart>				
+<info>Jonas Nightengale é um falso pregador de fé, que usa todos seus truques com a Bíblia na mão de forma a atrair as pessoas para seus cultos. </info>				
+<genre>COMÉDIA</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -249,5 +249,6 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 				
 				
