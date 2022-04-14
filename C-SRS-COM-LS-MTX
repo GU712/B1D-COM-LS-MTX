@@ -222,6 +222,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]O Super-Herói Americano (1981-1982)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1D-COM-LS-MTX/main/C17-SRS-Super.Hero.Amer-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6e5AOU0X7dNLqtidm9qE11l8om6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5ASuXTfd6zfLmyYdIf7R4uk4h5d.jpg</fanart>
+<info>Assista a série O Super-Herói Americano. 
+[COLOR orange][B]COMÉDIA[/B][/COLOR]
+[COLOR orange][B]03 TEMPS - 43 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1981 a 1982[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Um Amor de Familia (1987-1996)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1D-COM-LS-MTX/main/C14-SRS-Um.Amor.de.Familia-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/utM8UUlU8v1tfI4KB1TdlOmR6ux.jpg</thumbnail>
@@ -230,18 +244,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
 [COLOR orange][B]11 TEMPS - 262 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 1987 a 1996[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/A1A-ACA-LS-KRP/main/C2-SRS-24.Horas-KRP</externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
